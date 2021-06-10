@@ -9,7 +9,7 @@
     "postversion": "git push && git push --tags && npm publish --access=public"
   },
   "dependencies": {
-    "@f/brackets": "^1.0.0",
+    "@f/brackets": "git://github.com/denistuksar/brackets.git",
     "@f/form-controls": "^1.0.0",
     "@f/get-value": "^1.0.0",
     "@f/is-element-submittable": "git://github.com/denistuksar/is-element-submittable.git",
